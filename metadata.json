@@ -1,0 +1,5 @@
+{
+  "name": "HairStyle AI Transformer",
+  "description": "Visualize different hairstyles on your own photo using Gemini AI. Upload a selfie and a reference style (or description) to transform your look.",
+  "requestFramePermissions": []
+}
